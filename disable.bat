@@ -41,8 +41,7 @@ adb shell pm disable-user com.android.dreams.basic
 adb shell pm disable-user com.samsung.android.app.simplesharing                             
 adb shell pm disable-user com.samsung.android.da.daagent                                    
 adb shell pm disable-user com.samsung.android.app.reminder                                  
-adb shell pm disable-user com.samsung.android.smartcallprovider                             
-adb shell pm disable-user com.samsung.android.app.smartcapture                              
+adb shell pm disable-user com.samsung.android.smartcallprovider                                                          
 adb shell pm disable-user com.dsi.ant.plugins.antplus                                       
 adb shell pm disable-user com.microsoft.office.word                                         
 adb shell pm disable-user com.microsoft.office.powerpoint                                   
