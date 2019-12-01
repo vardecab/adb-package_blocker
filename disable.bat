@@ -1,5 +1,5 @@
 rem go to your ADB location
-cd C:\...\ADB Tools
+C:\[path]\ADB Tools
 
 rem list all packages (including disabled)
 rem adb shell pm list packages
