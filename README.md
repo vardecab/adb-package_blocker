@@ -46,10 +46,11 @@
  Actual _adb_ commands so you can check installed apps and disable them (including those "unremovable" built-in ones):
 
 - To show all packages: `adb shell pm list packages`
+- To show all disabled packages: `adb shell pm list packages -d`
+- To show all enabled packages: `adb shell pm list packages -e`
 - **To disable a package**: `adb shell pm disable-user <PACKAGE_NAME>`
-- To show disabled packages: `adb shell pm list packages -d`
 - To enable disabled package: `adb shell pm enable <PACKAGE_NAME>`
-- To dump all packages' names to a file: `adb shell pm list packages > dump-packages_all.txt`
+- To dump all packages' names to a file: `adb shell pm list packages > "c:\users\USER\dump-packages_all.txt"`
 
 App showing installed packages' names might be useful, eg [Package List](https://play.google.com/store/apps/details?id=me.iofel.packagelist).
 
