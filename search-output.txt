@@ -1,9 +1,0 @@
-package:com.samsung.android.app.settings.bixby
-package:com.samsung.systemui.bixby2
-package:com.samsung.android.bixby.service
-package:com.samsung.android.bixby.agent
-package:com.samsung.android.bixby.es.globalaction
-package:com.samsung.android.bixbyvision.framework
-package:com.samsung.android.bixby.wakeup
-package:com.samsung.android.bixby.plmsync
-package:com.samsung.android.bixby.agent.dummy

@@ -24,7 +24,7 @@
 1) Go to ADB location from `cmd`: 
     ```
     cd C:\[path]\ADB Tools
-2) Run:
+2) Run: 
     ```
     adb shell pm list packages > dump-packages_all.txt
 3) In *search.py* change what are you looking for, eg _Bixby_ or _Samsung_, so it looks like this:
