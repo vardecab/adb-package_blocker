@@ -51,7 +51,7 @@
 - **To disable a package**: `adb shell pm disable-user <PACKAGE_NAME>`
 - To enable disabled package: `adb shell pm enable <PACKAGE_NAME>`
 - To dump all packages' names to a file: `adb shell pm list packages > "c:\users\USER\dump-packages_all.txt"`
-
+    
 App showing installed packages' names might be useful, eg [Package List](https://play.google.com/store/apps/details?id=me.iofel.packagelist).
 
 ## Versioning
