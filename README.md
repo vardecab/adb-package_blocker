@@ -1,5 +1,7 @@
 # ADB Package Blocker
 
+![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)
+
 >Disable unwanted apps on your Android phone in 30 secs using `.bat` file executing ADB commands.
 
 ## How to use
